@@ -1,0 +1,26 @@
+.SearchArea{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+.SearchArea button{
+  border: none;
+  background-color: #848484;
+  color: #fff;
+  padding: 10px 40px;
+  border-radius: 5px;
+  margin: 10px;
+  font-weight: bold;
+  width: 220px;
+  cursor: pointer;
+}
+
+.SearchArea input{
+  height: 28px;
+  border-radius: 5px;
+  border: solid 1px #989494;
+  padding: 0px 10px;
+}
