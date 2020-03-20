@@ -16,6 +16,7 @@
   font-weight: bold;
   width: 220px;
   cursor: pointer;
+  outline: none;
 }
 
 .SearchArea input{
